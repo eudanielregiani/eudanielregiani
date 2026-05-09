@@ -2,7 +2,11 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Daniel Regiani Rodrigues, tenho 18 anos e sou estudante de Engenharia de Software na Universidade da Grande Dourados - UNIGRAN, atualmente no primeiro semestre da faculdade. Desde cedo me interessei pela área de tecnologia e hoje estou focado em aprender cada vez mais sobre desenvolvimento web, lógica de programação, e o que a faculdade tem a me oferecer. Atualmente estudo linguagens como C++ e Portugol, além de ferramentas voltadas para desenvolvimento e versionamento de código. Me siga nas minhas redes sociais!
+Me chamo Daniel Regiani Rodrigues, tenho 18 anos e sou estudante de Engenharia de Software na Universidade da Grande Dourados - UNIGRAN, atualmente no primeiro semestre da faculdade. 
+
+Desde cedo me interessei pela área de tecnologia e hoje estou focado em aprender cada vez mais sobre desenvolvimento web, lógica de programação, e o que a faculdade tem a me oferecer. Atualmente estudo linguagens como C++ e Portugol, além de ferramentas voltadas para desenvolvimento e versionamento de código. 
+
+Me siga nas minhas redes sociais! 👇
 
 <div align="left">
 
